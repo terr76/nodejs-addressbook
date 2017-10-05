@@ -1,3 +1,7 @@
+.contact .contact-form,
+.contact-index ul{
+ max-width: 500px;
+}
 .contact h2{
  color: tomato;
 }
@@ -5,4 +9,7 @@
 .contact-show label{
  display: inline-block;
  width: 50px;
+}
+.contact .contact-menu form{
+ display: inline-block;
 }
